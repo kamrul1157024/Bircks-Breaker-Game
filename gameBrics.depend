@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1463045025 source:c:\users\kamrul\downloads\igraphics\igraphics\myigraphics\brickbreaker.cpp
+	"iGraphics.h"
+	<iostream>
+	<ctime>
+	<fstream>
+
+1462699667 c:\users\kamrul\downloads\igraphics\igraphics\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<GL/glaux.h>
+
+1463045025 source:d:\c programme\game\gamebrics\brickbreaker.cpp
+	"iGraphics.h"
+	<iostream>
+	<ctime>
+	<fstream>
+
+1462699667 d:\c programme\game\gamebrics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<GL/glaux.h>
+
