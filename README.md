@@ -1,2 +1,2 @@
 # birckbreakerusinc 
-this game made using c in level 1-1 as project (slef project)
+<a href=https://github.com/kamrul1157024/bircks_breaker_using_c/blob/master/bin/Debug/gameBrics.exe>Download</a> the game.
